@@ -3,7 +3,6 @@ title: "About Us"
 ---
 
 # Frank Celloponti
-![](img/franco.jpg)
 
 Frank has many years of experience with placeholder text.
 
