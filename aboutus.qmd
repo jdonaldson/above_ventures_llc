@@ -1,0 +1,15 @@
+---
+title: "About Us"
+---
+
+# Franco Ponticelli
+![](img/franco.jpg)
+
+Franco has many years of experience with placeholder text.
+
+# Justin Donaldson 
+
+![](img/justin.jpg)
+
+Justin is a Data Scientist/Engineer with decades of experience in both Academia and Industry. He was formerly a Principal Data Scientist/Machine Learning Engineer for Special Projects at Salesforce. He is responsible for incubating advanced applied machine learning projects for internal SFDC teams and external SFDC customers. He has a Ph.D. and M.S.
+
